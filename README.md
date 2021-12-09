@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nanmw
 - 👀 I’m interested in JavaScript, React.js, React Native, Node.js, Python, PHP, Drupal, Datascience, Machine Learning, Internet of Things, and AI
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on JavaScript, Python, PHP, Drupal
 - 📫 How to reach me cloud999.nl@gmail.com
 
